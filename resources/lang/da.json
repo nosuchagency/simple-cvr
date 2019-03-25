@@ -1,0 +1,16 @@
+{
+    "E-Mail Address": "E-mail",
+    "Password": "Password",
+    "Remember Me": "Husk mig",
+    "Login": "Log ind",
+    "Logout": "Log ud",
+    "Forgot Your Password?": "Glemt dit password?",
+    "Verify Your Email Address" : "Bekræft din e-mail-adresse",
+    "A fresh verification link has been sent to your email address." : "Et nyt bekræftelseslink er sendt til din email-adresse.",
+    "Before proceeding, please check your email for a verification link." : "Før du fortsætter, bedes du tjekke din email for et bekræftelseslink.",
+    "If you did not receive the email" : "Hvis du ikke modtog e-mailen",
+    "click here to request another" : "klik her for at anmode om en anden",
+    "Reset Password" : "Nulstil password",
+    "Send Password Reset Link" : "Send nulstillingslink",
+    "confirm Password" : "Bekræft password"
+}
